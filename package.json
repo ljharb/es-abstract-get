@@ -1,0 +1,35 @@
+{
+	"name": "es-abstract-get",
+	"version": "0.0.0",
+	"description": "ECMAScript Abstract Operations for \"getting properties\" (Get, GetV, GetMethod)",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"sideEffects": false,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/es-abstract-get.git"
+	},
+	"keywords": [
+		"ECMAScript",
+		"ES",
+		"AO",
+		"abstract operation",
+		"GetMethod",
+		"GetV",
+		"Get",
+		"property",
+		"properties"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/es-abstract-get/issues"
+	},
+	"homepage": "https://github.com/ljharb/es-abstract-get#readme"
+}
