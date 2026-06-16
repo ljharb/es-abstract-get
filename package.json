@@ -1,6 +1,6 @@
 {
 	"name": "es-abstract-get",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "ECMAScript Abstract Operations for \"getting properties\" (Get, GetV, GetMethod)",
 	"main": false,
 	"exports": {
